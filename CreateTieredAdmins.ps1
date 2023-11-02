@@ -12,7 +12,7 @@
   None
 
   .INPUTS
-  A csv file with FirstName' and 'LastName columns if creating multiple accounts
+  A csv file with FirstName', 'LastName' and 'Password' columns if creating multiple accounts in bulk
 
   .OUTPUTS
   None
