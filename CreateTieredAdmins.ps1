@@ -43,7 +43,6 @@ function Get-OpenFileDialog {
     $openFileDialog.ShowDialog()
     $openFileDialog
 }
-
 function Import-ValidCSV {
     param (
         [parameter(Mandatory)]
